@@ -1,0 +1,25 @@
+Info 0    [17:30:55.025] Starting TS Server
+Info 1    [17:30:55.025] Version: 4.4.4
+Info 2    [17:30:55.025] Arguments: /usr/bin/node /home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/bin/tsserver --logFile /home/hakuya/Documents/Projects/WebDev/Github.io/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/121b8cb6b090dded60524d4533599ee0/tscancellation*
+Info 3    [17:30:55.025] Platform: linux NodeVersion: 17 CaseSensitive: true
+Info 4    [17:30:55.025] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [17:30:55.044] Search path: /home/hakuya/Documents/Projects/WebDev/Github.io/assets/js
+Info 6    [17:30:55.045] For info: /home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/main.js :: No config files found.
+Info 7    [17:30:55.050] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [17:30:55.745] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 695.5586709994823ms
+Info 9    [17:30:55.746] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [17:30:55.746] 	Files (19)
+
+Info 11   [17:30:55.746] -----------------------------------------------
+Info 12   [17:33:52.151] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 13   [17:33:52.162] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false structureIsReused:: Completely Elapsed: 10.735115000978112ms
+Info 14   [17:33:52.163] Different program with same set of files
+Info 15   [17:33:52.383] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 16   [17:33:52.392] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 8.159977000206709ms
+Info 17   [17:33:52.392] Different program with same set of files
+Info 18   [17:33:52.901] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [17:33:52.908] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 6.121210999786854ms
+Info 20   [17:33:52.908] Different program with same set of files
+Info 21   [17:33:53.177] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 22   [17:33:53.183] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 5.240751000121236ms
+Info 23   [17:33:53.183] Different program with same set of files

@@ -1,0 +1,80 @@
+[17:30:55.217] Global cache location '/home/hakuya/.cache/typescript/4.4', safe file path '/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typesMap.json
+[17:30:55.218] Processing cache location '/home/hakuya/.cache/typescript/4.4'
+[17:30:55.218] Trying to find '/home/hakuya/.cache/typescript/4.4/package.json'...
+[17:30:55.221] Loaded content of '/home/hakuya/.cache/typescript/4.4/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.568"},"devDependencies":{"@types/accepts":"^1.3.5","@types/body-parser":"^1.19.2","@types/bootstrap":"^5.1.6","@types/bytes":"^3.1.1","@types/content-disposition":"^0.5.4","@types/content-type":"^1.1.5","@types/cookie":"^0.4.1","@types/cookie-signature":"^1.0.3","@types/debug":"^4.1.7","@types/depd":"^1.1.32","@types/destroy":"^1.0.0","@types/ee-first":"^1.1.0","@types/encodeurl":"^1.0.0","@types/escape-html":"^1.0.1","@types/etag":"^1.8.1","@types/express":"^4.17.13","@types/finalhandler":"^1.1.1","@types/forwarded":"^0.1.0","@types/fresh":"^0.5.0","@types/http-errors":"^1.8.1","@types/inherits":"^0.0.30","@types/media-typer":"^1.1.1","@types/merge-descriptors":"^1.0.1","@types/methods":"^1.1.1","@types/mime":"^2.0.3","@types/mime-db":"^1.43.1","@types/mime-types":"^2.1.1","@types/ms":"^0.7.31","@types/negotiator":"^0.6.1","@types/on-finished":"^2.3.1","@types/page":"^1.11.5","@types/parseurl":"^1.3.1","@types/proxy-addr":"^2.0.0","@types/qs":"^6.9.7","@types/range-parser":"^1.2.4","@types/safer-buffer":"^2.1.0","@types/send":"^0.17.1","@types/serve-static":"^1.13.10","@types/statuses":"^2.0.0","@types/type-is":"^1.6.3","@types/utils-merge":"^0.0.28","@types/vary":"^1.1.0"}}
+[17:30:55.221] Loaded content of '/home/hakuya/.cache/typescript/4.4/package-lock.json'
+[17:30:55.232] Adding entry into typings cache: 'accepts' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/accepts/index.d.ts'
+[17:30:55.235] Adding entry into typings cache: 'body-parser' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/body-parser/index.d.ts'
+[17:30:55.239] Adding entry into typings cache: 'bootstrap' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/bootstrap/index.d.ts'
+[17:30:55.240] Adding entry into typings cache: 'bytes' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/bytes/index.d.ts'
+[17:30:55.241] Adding entry into typings cache: 'content-disposition' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/content-disposition/index.d.ts'
+[17:30:55.243] Adding entry into typings cache: 'content-type' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/content-type/index.d.ts'
+[17:30:55.244] Adding entry into typings cache: 'cookie' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/cookie/index.d.ts'
+[17:30:55.247] Adding entry into typings cache: 'cookie-signature' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/cookie-signature/index.d.ts'
+[17:30:55.249] Adding entry into typings cache: 'debug' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/debug/index.d.ts'
+[17:30:55.252] Adding entry into typings cache: 'depd' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/depd/index.d.ts'
+[17:30:55.254] Adding entry into typings cache: 'destroy' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/destroy/index.d.ts'
+[17:30:55.255] Adding entry into typings cache: 'ee-first' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/ee-first/index.d.ts'
+[17:30:55.256] Adding entry into typings cache: 'encodeurl' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/encodeurl/index.d.ts'
+[17:30:55.257] Adding entry into typings cache: 'escape-html' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/escape-html/index.d.ts'
+[17:30:55.258] Adding entry into typings cache: 'etag' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/etag/index.d.ts'
+[17:30:55.261] Adding entry into typings cache: 'express' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/express/index.d.ts'
+[17:30:55.262] Adding entry into typings cache: 'finalhandler' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/finalhandler/index.d.ts'
+[17:30:55.263] Adding entry into typings cache: 'forwarded' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/forwarded/index.d.ts'
+[17:30:55.264] Adding entry into typings cache: 'fresh' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/fresh/index.d.ts'
+[17:30:55.265] Adding entry into typings cache: 'http-errors' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/http-errors/index.d.ts'
+[17:30:55.266] Adding entry into typings cache: 'inherits' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/inherits/index.d.ts'
+[17:30:55.269] Adding entry into typings cache: 'media-typer' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/media-typer/index.d.ts'
+[17:30:55.270] Adding entry into typings cache: 'merge-descriptors' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/merge-descriptors/index.d.ts'
+[17:30:55.272] Adding entry into typings cache: 'methods' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/methods/index.d.ts'
+[17:30:55.273] Adding entry into typings cache: 'mime' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/mime/index.d.ts'
+[17:30:55.276] Adding entry into typings cache: 'mime-db' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/mime-db/index.d.ts'
+[17:30:55.277] Adding entry into typings cache: 'mime-types' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/mime-types/index.d.ts'
+[17:30:55.278] Adding entry into typings cache: 'ms' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/ms/index.d.ts'
+[17:30:55.278] Adding entry into typings cache: 'negotiator' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/negotiator/index.d.ts'
+[17:30:55.279] Adding entry into typings cache: 'on-finished' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/on-finished/index.d.ts'
+[17:30:55.280] Adding entry into typings cache: 'page' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/page/index.d.ts'
+[17:30:55.281] Adding entry into typings cache: 'parseurl' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/parseurl/index.d.ts'
+[17:30:55.282] Adding entry into typings cache: 'proxy-addr' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/proxy-addr/index.d.ts'
+[17:30:55.283] Adding entry into typings cache: 'qs' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/qs/index.d.ts'
+[17:30:55.284] Adding entry into typings cache: 'range-parser' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/range-parser/index.d.ts'
+[17:30:55.285] Adding entry into typings cache: 'safer-buffer' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/safer-buffer/index.d.ts'
+[17:30:55.286] Adding entry into typings cache: 'send' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/send/index.d.ts'
+[17:30:55.287] Adding entry into typings cache: 'serve-static' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/serve-static/index.d.ts'
+[17:30:55.288] Adding entry into typings cache: 'statuses' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/statuses/index.d.ts'
+[17:30:55.289] Adding entry into typings cache: 'type-is' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/type-is/index.d.ts'
+[17:30:55.290] Adding entry into typings cache: 'utils-merge' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/utils-merge/index.d.ts'
+[17:30:55.290] Adding entry into typings cache: 'vary' => '/home/hakuya/.cache/typescript/4.4/node_modules/@types/vary/index.d.ts'
+[17:30:55.290] Finished processing cache location '/home/hakuya/.cache/typescript/4.4'
+[17:30:55.291] Process id: 59612
+[17:30:55.291] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[17:30:55.291] validateDefaultNpmLocation: false
+[17:30:55.291] Npm config file: /home/hakuya/.cache/typescript/4.4/package.json
+[17:30:55.291] Updating types-registry npm package...
+[17:30:55.291] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[17:30:56.987]     Succeeded. stdout:
+    
+    changed 1 package, and audited 52 packages in 1s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[17:30:56.987] Updated types-registry npm package
+[17:30:57.009] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/main.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/hakuya/Documents/Projects/WebDev/Github.io/assets/js","kind":"discover"}
+[17:30:57.020] Loaded safelist from types map file '/home/hakuya/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typesMap.json'
+[17:30:57.021] Explicitly included types: []
+[17:30:57.021] Inferred typings from unresolved imports: []
+[17:30:57.021] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/bower_components","/home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/node_modules"]}
+[17:30:57.021] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/bower_components","/home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/node_modules"]}
+[17:30:57.022] DirectoryWatcher:: Added:: WatchInfo: /home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/bower_components
+[17:30:57.022] DirectoryWatcher:: Added:: WatchInfo: /home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:30:57.023] Elapsed:: 1.2444029990583658ms DirectoryWatcher:: Added:: WatchInfo: /home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:30:57.023] DirectoryWatcher:: Added:: WatchInfo: /home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/node_modules
+[17:30:57.024] DirectoryWatcher:: Added:: WatchInfo: /home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:30:57.024] Elapsed:: 0.08399500139057636ms DirectoryWatcher:: Added:: WatchInfo: /home/hakuya/Documents/Projects/WebDev/Github.io/assets/js/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:30:57.024] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:30:57.024] Response has been sent.
+[17:30:57.024] No new typings were requested as a result of typings discovery
