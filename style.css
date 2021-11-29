@@ -6,9 +6,24 @@ body {
 
 h1, h2 {
 
+    font-family: Terminus;
     padding: 5%;
     text-align: center;
 
+}
+
+.modechange  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 20%;
+}
+
+a {
+    font-family: Terminus;
+    text-align: center;
 }
 
 .centered {
